@@ -1,0 +1,19 @@
+{
+  "title": "POKÉ LOCALS Documentation",
+  "icon": "Pencil",
+  "root": true,
+  "pages": [
+    "index",
+    "getting-started",
+    "---Organizer guide---",
+    "organizations",
+    "tournaments",
+    "---Players guide---",
+    "tournament-views",
+    "pairings",
+    "roster",
+    "standings",
+    "profile",
+    "..."
+  ]
+}
